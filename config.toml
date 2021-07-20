@@ -1,3 +1,42 @@
-baseURL = "http://example.org/"
+baseURL = "https://mosm.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "mosm.dev"
+theme = "PaperMod"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params.profileMode]
+enabled = true
+imageUrl = "/icon.jpg"
+title = "Yuta Imazu"
+subtitle = """
+I'm a student who loves software development.
+
+Among many other things, I'm fascinated by command-line apps, web apps, and synthesizers.
+
+Have a look at [my projects](/projects)!
+"""
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:airman515@gmail.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mosmeh"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/mosmeh"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 2
