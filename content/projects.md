@@ -6,9 +6,15 @@ title: 'Projects'
 
 A locate alternative with incremental search.
 
+Designed to exploit multiple CPU cores and minimize memory usage.
+
+Inspired by [Everything](https://www.voidtools.com/), which is another great file locator.
+
 ## [Witchbooru](https://mosmeh.github.io/witchbooru/)
 
 Image recognition system for anime characters.
+
+Trained with [Danbooru](https://danbooru.donmai.us/) data and built on top of [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) model.
 
 ## Web synthesizers & effects
 
@@ -24,7 +30,9 @@ Various synthesizers and effects utilizing WebAudio AudioWorklet.
 
 ## [beek](https://mosmeh.github.io/beek/)
 
-A modern CLI calculator.
+A modern REPL-style calculator.
+
+[Web version](https://mosmeh.github.io/beek/) is built with WebAssembly.
 
 ## [accent](https://github.com/mosmeh/accent)
 
