@@ -18,7 +18,7 @@ Trained with [Danbooru](https://danbooru.donmai.us/) data and built on top of [D
 
 ## Web synthesizers & effects
 
-Various synthesizers and effects utilizing WebAudio AudioWorklet.
+Various synthesizers and effects utilizing WebAudio [AudioWorklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet).
 
 -   [synks](https://mosmeh.github.io/synks/): Karplus-Strong string synthesizer
 -   [synxylo](https://mosmeh.github.io/synxylo/): Physical modeling xylophone synthesizer
@@ -28,7 +28,7 @@ Various synthesizers and effects utilizing WebAudio AudioWorklet.
 -   [forma](https://mosmeh.github.io/forma/): Formant filter
 -   [web-channel-eq](https://mosmeh.github.io/web-channel-eq/): Ableton Live's Channel EQ
 
-## [beek](https://mosmeh.github.io/beek/)
+## [beek](https://github.com/mosmeh/beek)
 
 A modern REPL-style calculator.
 
@@ -40,7 +40,7 @@ Implementation of audio reverberation algorithms.
 
 ## [Synth Playground](https://mosmeh.github.io/synth-playground/)
 
-Web playground to play with WebAudio AudioWorklet.
+Web playground to play with WebAudio [AudioWorklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet).
 
 ## Web services accessible from terminal
 
@@ -61,9 +61,13 @@ Games in text user interface.
 -   [codebreaker](https://github.com/mosmeh/codebreaker): Mastermind
 -   [yachtee](https://github.com/mosmeh/yachtee): Yahtzee
 
+## [mahjongg](https://github.com/mosmeh/mahjongg)
+
+Mahjong solitaire game (aka Shanghai) compatible with [GNOME Mahjongg](https://wiki.gnome.org/Apps/Mahjongg) and [KMahjongg](https://games.kde.org/games/kmahjongg/).
+
 ## [mckalah](https://github.com/mosmeh/mckalah)
 
-Monte Carlo tree search player for Kalah.
+Monte Carlo tree search player for [Kalah](https://en.wikipedia.org/wiki/Kalah).
 
 ## [suffine](https://github.com/mosmeh/suffine)
 
