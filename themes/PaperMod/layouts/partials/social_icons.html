@@ -1,7 +1,0 @@
-<div class="contact">
-    {{- range . -}}
-    <a href="{{ trim .url " " }}"
-        {{ if strings.HasPrefix (trim .url " ") "http" }}target="_blank" rel="noopener noreferrer me"{{end}}
-        title="{{ .name | humanize }}">{{ partial "svg.html" . }}</a>
-    {{- end -}}
-</div>
