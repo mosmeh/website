@@ -38,7 +38,7 @@ A modern REPL-style calculator. \
 
 Programs written for bare-metal environments.
 
--   [x86-bare-metal-raytracer](https://github.com/mosmeh/x86-bare-metal-raytracer): [Raytracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) on x86 bare-metal
+-   [x86-bare-metal-raytracer](https://github.com/mosmeh/x86-bare-metal-raytracer): [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) on x86 bare-metal
 -   [x86-bare-metal-donut](https://github.com/mosmeh/x86-bare-metal-donut): [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html) on x86 bare-metal
 
 ## [accent](https://github.com/mosmeh/accent)
