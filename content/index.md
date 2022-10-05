@@ -13,14 +13,6 @@ A locate alternative with incremental search. \
 Designed to utilize multiple CPU cores and minimize memory usage. \
 Inspired by [Everything](https://www.voidtools.com/), which is another great file locator.
 
-## [Witchbooru](https://mosmeh.github.io/witchbooru/)
-
-![](imgs/witchbooru.png)
-
-Image recognition system for anime characters. \
-Trained with [Danbooru](https://danbooru.donmai.us/) data and built on top of [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) model. \
-Deployed as an AWS Lambda function.
-
 ## Web synthesizers & audio effects
 
 ![](imgs/syndx.png)
@@ -35,13 +27,6 @@ Various synthesizers and effects utilizing WebAudio [AudioWorklet](https://devel
 -   [forma](https://mosmeh.github.io/forma/): Formant filter
 -   [web-channel-eq](https://mosmeh.github.io/web-channel-eq/): Ableton Live's Channel EQ
 
-## [beek](https://github.com/mosmeh/beek)
-
-![](imgs/beek.png)
-
-A modern REPL-style calculator. \
-[Web version](https://mosmeh.github.io/beek/) is built with WebAssembly.
-
 ## Bare-metal programs
 
 ![](imgs/yagura.png)
@@ -51,6 +36,33 @@ Programs written for bare-metal environments.
 -   [yagura](https://github.com/mosmeh/yagura): A Unix-like operating system for x86
 -   [x86-bare-metal-raytracer](https://github.com/mosmeh/x86-bare-metal-raytracer): [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) on x86 bare-metal
 -   [x86-bare-metal-donut](https://github.com/mosmeh/x86-bare-metal-donut): [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html) on x86 bare-metal
+
+## [mochi](https://github.com/mosmeh/mochi)
+
+![](imgs/mochi.png)
+
+Lua runtime, including:
+
+ - Bytecode VM compatible with PUC-Rio Lua 5.4
+ - Lexer and parser
+ - AST to bytecode compiler
+ - Incremental mark-and-sweep garbage collection
+ - Standard library implementation
+
+## [Witchbooru](https://mosmeh.github.io/witchbooru/)
+
+![](imgs/witchbooru.png)
+
+Image recognition system for anime characters. \
+Trained with [Danbooru](https://danbooru.donmai.us/) data and built on top of [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) model. \
+Deployed as an AWS Lambda function.
+
+## [beek](https://github.com/mosmeh/beek)
+
+![](imgs/beek.png)
+
+A modern REPL-style calculator. \
+[Web version](https://mosmeh.github.io/beek/) is built with WebAssembly.
 
 ## [accent](https://github.com/mosmeh/accent)
 
