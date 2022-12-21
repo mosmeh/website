@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # **Yuta Imazu**
 
 I'm a software engineer living in Tokyo, Japan. \

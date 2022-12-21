@@ -208,6 +208,13 @@
     display: none;
   }
 }
+@media screen and (min-width: 500px) {
+  #header-post {
+    #nav {
+      float: right;
+    }
+  }
+}
 
 @media screen and (max-width: 900px) {
   #header-post {

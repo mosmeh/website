@@ -43,7 +43,7 @@ theme = "cactus"
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "dracula"
+    style = "monokai"
     tabWidth = 4
 
 [params]
@@ -54,7 +54,7 @@ theme = "cactus"
 
   # Home page settings
   description = ""
-  mainSection = "posts" # your main section
+  mainSection = "notes" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
