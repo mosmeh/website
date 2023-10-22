@@ -54,7 +54,7 @@ theme = "cactus"
 
   # Home page settings
   description = ""
-  mainSection = "notes" # your main section
+  mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
