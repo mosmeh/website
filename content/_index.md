@@ -58,6 +58,10 @@ $ mochi factorial.lua 12
 
 ## Databases
 
+### squalodon
+
+A relational database management system written from scratch. [GitHub](https://github.com/mosmeh/squalodon)
+
 ### qwerk
 
 An embedded transactional key-value store. [GitHub](https://github.com/mosmeh/qwerk)
