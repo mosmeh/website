@@ -5,11 +5,18 @@ layout: single
 # **Yuta Imazu**
 
 I'm a software engineer living in Tokyo, Japan. \
-Among many other things, I'm fascinated by command-line apps, database systems, distributed systems, and synthesizers.
+Among many other things, I'm fascinated by
+
+- Systems programming (operating systems, compilers, etc.)
+- Database systems
+- Distributed systems
+- Audio programming (synthesizers, effects, etc.)
 
 # Projects
 
-## indexa
+## CLI tools
+
+### indexa
 
 A locate alternative with incremental search. [GitHub](https://github.com/mosmeh/indexa)
 
@@ -18,17 +25,28 @@ A locate alternative with incremental search. [GitHub](https://github.com/mosmeh
 Designed to utilize multiple CPU cores and minimize memory usage. \
 Inspired by [Everything](https://www.voidtools.com/), which is another great file locator.
 
-## Bare-metal programs
+## Low-level
 
-Programs written for bare-metal environments.
+### yagura
+
+A Unix-like operating system for x86. [GitHub](https://github.com/mosmeh/yagura)
 
 ![](imgs/yagura.png)
 
-- [yagura](https://github.com/mosmeh/yagura): A Unix-like operating system for x86
+### microcosm
+
+A minimal KVM-based virtual machine monitor. [GitHub](https://github.com/mosmeh/microcosm)
+
+### Bare-metal programs
+
+Programs written for bare-metal environments.
+
 - [x86-bare-metal-raytracer](https://github.com/mosmeh/x86-bare-metal-raytracer): [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) on x86 bare-metal
 - [x86-bare-metal-donut](https://github.com/mosmeh/x86-bare-metal-donut): [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html) on x86 bare-metal
 
-## mochi
+## Programming language implementations
+
+### mochi
 
 Lua runtime implemented in Rust. [GitHub](https://github.com/mosmeh/mochi)
 
@@ -61,6 +79,12 @@ $ mochi factorial.lua 12
 ### squalodon
 
 A relational database management system written from scratch. [GitHub](https://github.com/mosmeh/squalodon)
+
+- SQL parser
+- Planner
+- Execution engine
+- Join order optimization
+- Pluggable storage backends
 
 ### qwerk
 
@@ -113,7 +137,9 @@ Web playground to play with WebAudio [AudioWorklet](https://developer.mozilla.or
 
 SoundFont-powered MIDI synthesizer. [GitHub](https://github.com/mosmeh/primesynth)
 
-## Witchbooru
+## Web
+
+### Witchbooru
 
 ![](imgs/witchbooru.png)
 
@@ -123,7 +149,7 @@ Image recognition system for anime characters. \
 Trained with [Danbooru](https://danbooru.donmai.us/) data and built on top of [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) model. \
 Deployed as an AWS Lambda function.
 
-## beek
+### beek
 
 A modern REPL-style calculator. [GitHub](https://github.com/mosmeh/beek)
 
@@ -131,7 +157,7 @@ A modern REPL-style calculator. [GitHub](https://github.com/mosmeh/beek)
 
 [Web version](https://mosmeh.github.io/beek/) is built with WebAssembly.
 
-## Web services accessible from terminal
+### Web services accessible from terminal
 
 Web apps you can use via curl, wget, etc.
 
@@ -162,7 +188,9 @@ Mahjong solitaire game (aka Shanghai) compatible with [GNOME Mahjongg](https://w
 
 Monte Carlo tree search player for [Kalah](https://en.wikipedia.org/wiki/Kalah). [GitHub](https://github.com/mosmeh/mckalah)
 
-## suffine
+## Text processing
+
+### suffine
 
 Suffix array construction tool/library for huge strings. [GitHub](https://github.com/mosmeh/suffine)
 
