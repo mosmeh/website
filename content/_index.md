@@ -14,17 +14,6 @@ Among many other things, I'm fascinated by
 
 # Projects
 
-## CLI tools
-
-### indexa
-
-A locate alternative with incremental search. [GitHub](https://github.com/mosmeh/indexa)
-
-![](imgs/indexa.png)
-
-Designed to utilize multiple CPU cores and minimize memory usage. \
-Inspired by [Everything](https://www.voidtools.com/), which is another great file locator.
-
 ## Low-level
 
 ### yagura
@@ -78,7 +67,7 @@ $ mochi factorial.lua 12
 
 ### squalodon
 
-A relational database management system written from scratch. [GitHub](https://github.com/mosmeh/squalodon)
+An embedded relational database management system written from scratch. [GitHub](https://github.com/mosmeh/squalodon)
 
 - SQL parser
 - Planner
@@ -106,6 +95,17 @@ txn.commit()?;
 ### zakros
 
 Redis-compatible in-memory database replicated with [Raft consensus algorithm](https://raft.github.io/). [GitHub](https://github.com/mosmeh/zakros)
+
+## CLI tools
+
+### indexa
+
+A locate alternative with incremental search. [GitHub](https://github.com/mosmeh/indexa)
+
+![](imgs/indexa.png)
+
+Designed to utilize multiple CPU cores and minimize memory usage. \
+Inspired by [Everything](https://www.voidtools.com/), which is another great file locator.
 
 ## Audio and synthesizers
 
