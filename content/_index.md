@@ -96,6 +96,17 @@ txn.commit()?;
 
 Redis-compatible in-memory database replicated with [Raft consensus algorithm](https://raft.github.io/). [GitHub](https://github.com/mosmeh/zakros)
 
+### zseqd
+
+A distributed monotonically increasing sequence generator [GitHub](https://github.com/mosmeh/zseqd)
+
+```sh {linenos=false}
+> INCR myseq
+(integer) 42
+> INCR myseq
+(integer) 43
+```
+
 ## CLI tools
 
 ### indexa
@@ -129,7 +140,7 @@ Implementation of audio reverberation algorithms. [GitHub](https://github.com/mo
 
 ### Synth Playground
 
-Web playground to play with WebAudio [AudioWorklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet). [Try online](https://mosmeh.github.io/synth-playground/)
+Web playground to play with WebAudio [AudioWorklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet). [Try online](https://mosmeh.github.io/synth-playground/) [GitHub](https://github.com/mosmeh/synth-playground)
 
 ![](imgs/synth-playground.png)
 
