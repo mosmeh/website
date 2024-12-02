@@ -98,7 +98,7 @@ Redis-compatible in-memory database replicated with [Raft consensus algorithm](h
 
 ### zseqd
 
-A distributed monotonically increasing sequence generator [GitHub](https://github.com/mosmeh/zseqd)
+A distributed monotonically increasing sequence generator. [GitHub](https://github.com/mosmeh/zseqd)
 
 ```sh {linenos=false}
 > INCR myseq
