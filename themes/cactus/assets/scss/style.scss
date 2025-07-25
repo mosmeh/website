@@ -44,7 +44,7 @@ body {
   color: $color-link;
 }
 .social-container {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 .content {
   position: relative;
@@ -203,10 +203,6 @@ pre {
 
 code {
   font-family: $font-family-mono;
-  padding: 0 5px;
-  border: 1px dotted $color-border;
-  border-radius: 2px;
-  -webkit-border-radius: 2px;
 }
 
 .highlight {

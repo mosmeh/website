@@ -6,7 +6,7 @@ title: Miscellaneous
 
 Fingerprint: `684B F26C E461 098E 78AC  F18B 1999 E928 C286 818D`
 
-```
+```text {linenos=false}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaHs3ChYJKwYBBAHaRw8BAQdAdj0LcR1F6gg2pqEhLjLN3GkXaeBDm1oX0pmG

@@ -5,7 +5,6 @@
   h1,
   .h1 {
     margin-top: 0;
-    margin-bottom: 0;
     color: $color-text;
     letter-spacing: .01em;
     font-weight: 700;
@@ -39,7 +38,7 @@
     letter-spacing: .01em;
     font-weight: 200;
     font-style: normal;
-    font-size: .8rem;
+    font-size: .9rem;
 
     ul {
       margin: 0;
@@ -83,41 +82,3 @@
     }
   }
 }
-@media screen and (max-width: 480px) {
-  #header #title {
-    display: table;
-    margin-right: 5rem;
-    min-height: $logo-height;
-    h1 {
-      display: table-cell;
-      vertical-align: middle;
-    }
-  }
-  #header #nav {
-    ul {
-      a:hover {
-        background: none;
-      }
-      li {
-        display: none;
-        border-right: 0;
-      }
-      li.icon {
-        position: absolute;
-        top: 77px;
-        right: 1rem;
-        display: inline-block;
-      }
-    }
-    ul.responsive {
-      li {
-        display: block;
-      }
-    }
-    li:not(:first-child) {
-      padding-top: 1rem;
-      padding-left: $logo-width + 20px;
-      font-size: 1rem;
-    }
-  }
-};
