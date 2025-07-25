@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mosm.dev</title><link>https://mosm.dev/</link><description>Recent content on mosm.dev</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mosm.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Miscellaneous</title><link>https://mosm.dev/misc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mosm.dev/misc/</guid><description>&lt;h2 id="pgp-public-key">PGP public key&lt;/h2>
+&lt;p>Fingerprint: &lt;code>684B F26C E461 098E 78AC F18B 1999 E928 C286 818D&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-text" data-lang="text">&lt;span style="display:flex;">&lt;span>-----BEGIN PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mDMEaHs3ChYJKwYBBAHaRw8BAQdAdj0LcR1F6gg2pqEhLjLN3GkXaeBDm1oX0pmG
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>CYiX39e0IVl1dGEgSW1henUgPHl1dGEuaW1henVAZ21haWwuY29tPoiTBBMWCgA7
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>FiEEaEvybORhCY54rPGLGZnpKMKGgY0FAmh7NwoCGwMFCwkIBwICIgIGFQoJCAsC
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>BBYCAwECHgcCF4AACgkQGZnpKMKGgY1lNAEA6QjZOmKb9V/TMoswH4lpMZ2kHU5J
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>IP4fWw3J6Hlb0scBAOexKJW1JvI//VWe3qPaV0hE2QMjNvsJpWI4cf0j8xkDuDgE
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>aHs3ChIKKwYBBAGXVQEFAQEHQAS2B4UtpR4qvAdS8ZqbpmiFc5TnhznJfs6poen8
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>P3siAwEIB4h4BBgWCgAgFiEEaEvybORhCY54rPGLGZnpKMKGgY0FAmh7NwoCGwwA
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>CgkQGZnpKMKGgY0M+QD+Pk4ifkFxLflqs4yreHivSqQncGglbQmD1RqLCsdidpIA
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>/1s8gwjfJTCyOZorN3iJCzxbxBVvdD9TXR+sWEjnn2sG
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>=EzQs
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-----END PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Projects</title><link>https://mosm.dev/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mosm.dev/projects/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
+&lt;h2 id="low-level">Low-level&lt;/h2>
+&lt;h3 id="yagura">yagura&lt;/h3>
+&lt;p>A Unix-like operating system for x86.&lt;br>
+&lt;a href="https://github.com/mosmeh/yagura" target="_blank" rel="noopener noreferrer">GitHub&lt;/a>&lt;/p>
+&lt;p>&lt;img src="imgs/yagura.png" alt="">&lt;/p>
+&lt;h3 id="microcosm">microcosm&lt;/h3>
+&lt;p>A minimal KVM-based virtual machine monitor.&lt;br>
+&lt;a href="https://github.com/mosmeh/microcosm" target="_blank" rel="noopener noreferrer">GitHub&lt;/a>&lt;/p>
+&lt;h3 id="bare-metal-programs">Bare-metal programs&lt;/h3>
+&lt;p>Programs written for bare-metal environments.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mosmeh/x86-bare-metal-raytracer" target="_blank" rel="noopener noreferrer">x86-bare-metal-raytracer&lt;/a>: &lt;a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html" target="_blank" rel="noopener noreferrer">Ray Tracing in One Weekend&lt;/a> on x86 bare-metal&lt;/li>
+&lt;li>&lt;a href="https://github.com/mosmeh/x86-bare-metal-donut" target="_blank" rel="noopener noreferrer">x86-bare-metal-donut&lt;/a>: &lt;a href="https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html" target="_blank" rel="noopener noreferrer">donut.c&lt;/a> on x86 bare-metal&lt;/li>
+&lt;/ul>
+&lt;h2 id="programming-language-implementations">Programming language implementations&lt;/h2>
+&lt;h3 id="mochi">mochi&lt;/h3>
+&lt;p>Lua runtime implemented in Rust.&lt;br>
+&lt;a href="https://github.com/mosmeh/mochi" target="_blank" rel="noopener noreferrer">GitHub&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-lua" data-lang="lua">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1&lt;/span>&lt;span>&lt;span style="color:#66d9ef">local&lt;/span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">factorial&lt;/span>(n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2&lt;/span>&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> n &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#66d9ef">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3&lt;/span>&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4&lt;/span>&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5&lt;/span>&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> n &lt;span style="color:#f92672">*&lt;/span> factorial(n &lt;span style="color:#f92672">-&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6&lt;/span>&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7&lt;/span>&lt;span>&lt;span style="color:#66d9ef">end&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8&lt;/span>&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9&lt;/span>&lt;span>&lt;span style="color:#66d9ef">local&lt;/span> n &lt;span style="color:#f92672">=&lt;/span> tonumber(arg[&lt;span style="color:#ae81ff">1&lt;/span>] &lt;span style="color:#f92672">or&lt;/span> &lt;span style="color:#ae81ff">10&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10&lt;/span>&lt;span>print(n &lt;span style="color:#f92672">..&lt;/span> &lt;span style="color:#e6db74">&amp;#34;! = &amp;#34;&lt;/span> &lt;span style="color:#f92672">..&lt;/span> factorial(n))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>$ mochi factorial.lua &lt;span style="color:#ae81ff">12&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>12! &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">479001600&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Bytecode VM compatible with PUC-Rio Lua 5.4&lt;/li>
+&lt;li>Lexer and parser&lt;/li>
+&lt;li>AST to bytecode compiler&lt;/li>
+&lt;li>Incremental mark-and-sweep garbage collection&lt;/li>
+&lt;li>Standard library implementation&lt;/li>
+&lt;/ul>
+&lt;h2 id="databases">Databases&lt;/h2>
+&lt;h3 id="squalodon">squalodon&lt;/h3>
+&lt;p>An embedded relational database management system written from scratch.&lt;br>
+&lt;a href="https://github.com/mosmeh/squalodon" target="_blank" rel="noopener noreferrer">GitHub&lt;/a>&lt;/p></description></item></channel></rss>
