@@ -8,7 +8,7 @@ title: Projects
 
 ### yagura
 
-A Unix-like operating system for x86.\
+A Linux-compatible operating system for x86.\
 [GitHub](https://github.com/mosmeh/yagura)
 
 ![](imgs/yagura.png)
